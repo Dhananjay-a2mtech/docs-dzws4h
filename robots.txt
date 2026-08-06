@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-6ikv27.yoursingles.online/sitemap.xml
